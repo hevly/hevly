@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%30to%30Seunghee's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
   

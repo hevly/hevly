@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="https://t0jji-loong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

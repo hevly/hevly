@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">Hi There! I'm a Front-end developer.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
-<p align="center">Please look forward to my growth. Bye~</p>
+<p align="center">Please look forward to my growth. </p>
 
 <br>
 

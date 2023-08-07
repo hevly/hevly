@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">❤️ I like...</h3>
-<p align="center">🎹Piano,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
+<p align="center">🎹Piano,&nbsp;&nbsp;🎧Music,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
 
 <br>
 <br>
